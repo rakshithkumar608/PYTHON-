@@ -2,10 +2,10 @@
 
 #1.Simple Greeting Program: Write a Python program that asks the user for their name and age, then prints a personalized greeting message. Use both the + operator and f-strings for output.
 
-#boy_name = input("Enter your Name: ")
-#boy_age = int(input("Enter your Age: "))
+boy_name = input("Enter your Name: ")
+boy_age = int(input("Enter your Age: "))
 
-#print(f"Hello, {boy_name}! You are {boy_age} year old.")
+print(f"Hello, {boy_name}! You are {boy_age} year old.")
 
 #2.String Manipulation Exercise: Write a Python program that:
 
